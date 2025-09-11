@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Caster</string>
+    <string name="location_permission_required">Location permission is required to get weather data</string>
+</resources>
