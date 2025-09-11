@@ -8,11 +8,10 @@ A simple Android weather app that displays current weather information and nearb
 - Weather description
 - Humidity, wind speed, and pressure information
 - Location-based weather data
-- Beautiful gradient background
 - Refresh functionality
-- **NEW**: OpenStreetMap showing nearby rivers
-- **NEW**: Interactive map with user location and river markers
-- **FREE**: No API keys required for maps
+- OpenStreetMap showing nearby rivers
+- Interactive map with user location and river markers
+- No API keys required for maps
 
 ## Setup Instructions
 
